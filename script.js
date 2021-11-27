@@ -1,5 +1,5 @@
 
-function compute(event)
+function compute()
 {   
 
 
